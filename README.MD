@@ -9,10 +9,10 @@ JPK_VAT file is a monthly summary of all invoices in given month. This is requir
 ## What do I need to use this macro?
 
 You need:
-    * MS Excel 2007 or later
-    * Enabled macros in Excel
-    * Know how to import macro file in excel
-    * Worksheet with proper data tables
+* MS Excel 2007 or later
+* Enabled macros in Excel
+* Know how to import macro file in excel
+* Worksheet with proper data tables
 
 This macro need 2 sheets in workbook to work. 
 
