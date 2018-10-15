@@ -45,6 +45,7 @@ Headings of table must be in first row of sheet. First column contains tax codes
 6. Maps data array into sales and purcharses arrays ready to write into the JPK_VAT sheet
 7. Count sums
 8. Writes data into JPK_VAT sheet
+9. Exports sheet to csv file
 
 ## Why pivot table? 
 Creating pivot table is fast and very good for cleaning your input data. It can reduce number of your entries even by 10 times. It has significant influecne on performance of this script
